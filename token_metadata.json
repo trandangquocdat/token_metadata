@@ -1,0 +1,7 @@
+{
+  "name": "StealthFlow Token",
+  "symbol": "SFL",
+  "description": "Token chính thức của StealthFlow trên Solana",
+  "image": "https://mywebsite.com/logo.png",
+  "decimals": 9
+}
